@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://yourusername.github.io/elira/</loc>
+    <lastmod>2025-09-03</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Example extra pages (add when you create them) -->
+  <url>
+    <loc>https://yourusername.github.io/elira/business.html</loc>
+    <lastmod>2025-09-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yourusername.github.io/elira/tech.html</loc>
+    <lastmod>2025-09-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yourusername.github.io/elira/digital-marketing.html</loc>
+    <lastmod>2025-09-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+</urlset>
